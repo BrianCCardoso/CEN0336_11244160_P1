@@ -1,0 +1,16 @@
+total 0
+drwx------@  4 briancintracardoso  staff   128 14 Out 13:38 Desktop
+drwx------@ 13 briancintracardoso  staff   416 14 Out 13:50 Documents
+drwx------+ 42 briancintracardoso  staff  1344 10 Out 15:44 Downloads
+drwx------@ 90 briancintracardoso  staff  2880 10 Out 14:04 Library
+drwx------   4 briancintracardoso  staff   128 28 Set 16:41 Movies
+drwx------+  4 briancintracardoso  staff   128  8 Set 17:25 Music
+drwx------+  4 briancintracardoso  staff   128  8 Set 17:25 Pictures
+drwxr-xr-x+  4 briancintracardoso  staff   128  8 Set 17:14 Public
+drwxr-xr-x  10 briancintracardoso  staff   320 26 Set 10:17 PythonTestes
+drwx------   3 briancintracardoso  staff    96 11 Set 13:38 Sites
+drwxr-xr-x@  3 briancintracardoso  staff    96 13 Set 23:16 WebDev
+drwxr-xr-x   8 briancintracardoso  staff   256  5 Out 12:53 estudosPython
+drwxr-xr-x   2 briancintracardoso  staff    64 12 Set 10:27 git
+drwxr-xr-x   9 briancintracardoso  staff   288 13 Set 18:54 primeiro_bot
+drwxr-xr-x   5 briancintracardoso  staff   160 20 Set 11:25 pygames
