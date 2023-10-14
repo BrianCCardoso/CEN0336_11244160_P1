@@ -4,6 +4,7 @@ import sys #importação do módulo sys para aquisição dos valores utilizados 
 num_a = sys.argv[1] 
 num_b = sys.argv[2]
 
+#verifica se todos os argumentos foram passados
 if len(sys.argv) != 3:
     print("Usage: <n1> <n2>")
     sys.exit(1)
