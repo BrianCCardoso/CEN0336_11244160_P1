@@ -4,7 +4,9 @@ import sys #importação do módulo sys para aquisição dos valores utilizados 
 num_a = sys.argv[1] 
 num_b = sys.argv[2]
 
-
+if len(sys.argv) != 3:
+    print("Usage: <n1> <n2>")
+    sys.exit(1)
 
 if num_a.isdigit() and num_b.isdigit(): # o script verfica se os valores passados são compostos por apenas número
     num_a = int(num_a) #transforma o valor anteriormente do tipo str em int, caso a condicao seja verdadeira
